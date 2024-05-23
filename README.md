@@ -15,7 +15,7 @@ Objectives
 
 Results
 
-- Please read the ipynb file to see the results
+- Please read the 'e-commerceData.ipynb' file to see the results
 - Visualizations consists of: 
     - Sales Trends: Line graph for sales over time.
     - Top Products: Bar/Line chart for best-selling products by country.
